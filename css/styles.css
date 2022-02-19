@@ -1,0 +1,98 @@
+.cha{
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.red{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.green{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+    position: absolute;
+    left: 200px;
+    margin-left: 400px;
+    text-align: center;
+
+}
+
+.yellow{
+    width: 200px;
+    height: 400px;
+    background-color: yellow;
+    position: absolute;
+    left: 400px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.pe{
+    position: absolute;
+    margin: 100px;
+    width: 400px;
+}
+
+.a{
+    position: absolute;
+    left: 450px;
+    margin: 100px;
+    
+    
+
+}
+
+.reg{
+
+    position: absolute;
+    left: 800px;
+    margin: 100px;
+    
+    
+}
+
+.l{
+    position: absolute;
+    margin: 100px;
+    width: 400px;
+    top: 700px;
+}
+
+.l2{
+    position: absolute;
+    left: 450px;
+    margin: 100px;
+    top: 700px;
+    
+
+}
+
+.l3{
+
+    position: absolute;
+    left: 800px;
+    margin: 100px;
+    top: 700px;
+    
+}
+
+.bonus{
+    text-align: center;
+}
